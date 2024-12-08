@@ -5,5 +5,5 @@ int main(){
         printf("Scores %d : %d\n",i,scores[i]);
     }
     return 0;
-
+    
 }
